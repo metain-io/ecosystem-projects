@@ -1,0 +1,21 @@
+{
+  "name": "Metain",
+  "slug": "metain",
+  "date": "2022-09-13",
+  "highlight": "Metain offers the most secured asset-backed NFT from real world properties with stable APY 15-25%.",
+  "logo": "/img/metain.svg",
+  "tags": [
+    "digital securities",
+    "marketplace",
+    "nft",
+    "security"
+  ],
+  "status": "live",
+  "website": "https://metain.io",
+  "twitter": "https://twitter.com/METAINio",
+  "summary": "Metain is a co-investment platform on blockchain that offers asset-backed REIT NFT from real world properties. Metain strictly follows Real-Estate Investment Trust regulations and North American laws to protect interests of investors. Metain's REIT NFTs are the most secured and safe to invest.",
+  "telegram": "https://t.me/metainglobal",
+  "docs": "https://docs.avax.network/learn/avalanche-bridge-faq",
+  "github": "https://github.com/metain-io",
+  "token": "MEI"
+}
